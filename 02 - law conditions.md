@@ -6,5 +6,5 @@
 <br>
 <h2>2.3 Страховка</h2>
 
-[   <--- Сюда ___](/01%20-%20human%20risk%20factor/01%20-%20Human%20risk%20factor.md)
-[___ Туда --->]()
+[<--- Сюда ___](/01%20-%20human%20risk%20factor.md)
+[___ Туда --->](/03%20-%20road%20signs%20&%20equipment.md)
