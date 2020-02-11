@@ -41,5 +41,11 @@
 <img src="/img/sign/cng.png" alt="cng" width="200"/>
 <br>
 
+<h3>Знак "Autobahnen"</h3>
+<a>Указывает на номер автобана.</a>
+<br>
+<img src="/img/sign/autobahnen.png" alt="autobahnen" width="200"/>
+<br>
+
 [<--- Сюда ___](/02%20-%20law%20conditions.md)
 [___ Туда --->](/04%20-%20road%20infrastructure.md)
