@@ -13,6 +13,12 @@
 <li>Поверхность воды ночью или при плохой видимости с трудом отличается от проезжей части.</li>
 </ul>
 
+<h3>Лошади</h3>
+<img src="/img/sign/pferde.png" alt="steigung" width="200"/>
+<ul>
+<li>Опасность, связанная с появлением лошадей на проезжей части.</li>
+</ul>
+
 <h3>Подъем (Steigung)</h3>
 <img src="/img/sign/steigung.png" alt="steigung" width="200"/>
 <ul>
