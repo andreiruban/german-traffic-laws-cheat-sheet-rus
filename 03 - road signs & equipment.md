@@ -26,6 +26,7 @@
 </ul>
 
 <br>
+\
 <h2>3.3 Предписывающие знаки</h2>
 <h3>Знак "Минимальная скорость"</h3>
 <img src="/img/sign/min_speed.png" alt="min speed sign" width="200"/>
@@ -35,6 +36,7 @@
 </ul>
 
 <br>
+
 <h3>Знак "Стоянка запрещена кроме людей с ограниченными физ. возможностями имеющими разрещение"</h3>
 <img src="/img/sign/disabled_parking.png" alt="disabled parking sign" width="200"/>
 <ul>
@@ -43,10 +45,17 @@
 </ul>
 
 <br>
-<h3>Знак "Допустимый общий вес"</h3>
-<img src="/img/sign/permissible_total_weight.png" alt="disabled parking sign" width="200"/>
+
+<h3>Знак "Конец зоны с ограниченным запретом стоянки"</h3>
+<img src="/img/sign/ende_halterverbotes.png" width="200"/>
 
 <br>
+
+<h3>Знак "Допустимый общий вес"</h3>
+<img src="/img/sign/permissible_total_weight.png" width="200"/>
+
+<br>
+
 <h3>3.4 Указательные знаки</h3>
 
 <h3>Знак "населенный пункт"</h3>
