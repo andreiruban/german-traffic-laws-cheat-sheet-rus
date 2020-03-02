@@ -7,14 +7,14 @@
 <h2>3.2 Предупреждающие знаки</h2>
 
 <h3>Набережная</h3>
-<img src="/img/sign/promenade.png" alt="steigung" width="200"/>
+<img src="/img/sign/promenade.png" alt="promenade" width="200"/>
 <ul>
 <li>Дорога ведет к берегу водоема.</li>
 <li>Поверхность воды ночью или при плохой видимости с трудом отличается от проезжей части.</li>
 </ul>
 
 <h3>Лошади</h3>
-<img src="/img/sign/pferde.png" alt="steigung" width="200"/>
+<img src="/img/sign/pferde.png" alt="pferde" width="200"/>
 <ul>
 <li>Опасность, связанная с появлением лошадей на проезжей части.</li>
 </ul>
@@ -26,10 +26,10 @@
 </ul>
 
 <br>
-\
+
 <h2>3.3 Предписывающие знаки</h2>
 <h3>Знак "Минимальная скорость"</h3>
-<img src="/img/sign/min_speed.png" alt="min speed sign" width="200"/>
+<img src="/img/sign/min_speed.png" alt="min speed" width="200"/>
 <ul>
 <li>Вы должны двигаться со скоростью не менее указанной на данном знаке, только если по причинам, связанным с безопасностью дорожного движения вы вынуждены двигаться медленнее.</li>
 <li>Движение по данной дороге вам запрещено, если вы не можете или вам запрещено двигаться со скоростью не менее указанной на данном знаке.</li>
@@ -38,7 +38,7 @@
 <br>
 
 <h3>Знак "Стоянка запрещена кроме людей с ограниченными физ. возможностями имеющими разрещение"</h3>
-<img src="/img/sign/disabled_parking.png" alt="disabled parking sign" width="200"/>
+<img src="/img/sign/disabled_parking.png" alt="disabled parking" width="200"/>
 <ul>
 <li>Стоянка запрещена, кроме людей с ограниченными физ. возможностями имеющими специальное нумерованное разрещение.</li>
 <li>Разрешена остановка с целью посадки/высадки пассажиров.</li>
@@ -47,12 +47,12 @@
 <br>
 
 <h3>Знак "Конец зоны с ограниченным запретом стоянки"</h3>
-<img src="/img/sign/ende_halterverbotes.png" width="200"/>
+<img src="/img/sign/ende_halterverbotes.png" alt="ende halterverbotes zone" width="200"/>
 
 <br>
 
 <h3>Знак "Допустимый общий вес"</h3>
-<img src="/img/sign/permissible_total_weight.png" width="200"/>
+<img src="/img/sign/permissible_total_weight.png" alt="permissible total weight" width="200"/>
 
 <br>
 
