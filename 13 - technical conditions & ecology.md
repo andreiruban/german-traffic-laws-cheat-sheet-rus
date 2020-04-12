@@ -50,7 +50,7 @@
 + Перепроверите выхлопную систему.
 
 ### Экологическая зона (Umweltzone)
-![umwelt_zone](/img/sign/umwelt_zone.png)
+![umwelt_zone](/img/sign/umwelt_zone.png =250x)
 
 __Въезд разрешен__
 + Мотоциклам.
